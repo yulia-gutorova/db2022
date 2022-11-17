@@ -1,7 +1,10 @@
 # db2022
 ### LABB 1: Introduction till Verktyg
+-----
 # Heading level 1
+-----
 ## Heading level 2
+-----
 
 
 Vanlig text som beskriver mitt projekt.
@@ -10,9 +13,15 @@ Vanlig text som beskriver mitt projekt.
 
 *Kursiv stil text som beskriver mitt projekt.*
 
+-----
+
 >Blockquote
 
+-----
+
 :joy:
+
+-----
 
 ### Listor:
 
@@ -25,10 +34,15 @@ Vanlig text som beskriver mitt projekt.
 2. List 2
 3. List 3
 
+-----
+
+### Link:
 
 [Link to google.com](https://Google.com)
 
-#### Code:
+-----
+
+### Code:
 
 ```js
 
@@ -37,9 +51,15 @@ console.log("Hello Word!"");
 }
 
 ```
+-----
+
+### Bild
+
 ![photo](./owl.jpg)
 
+-----
 
+### Table:
 
 |Column 1|Column 2|Column 3|
 |:---:|:---:|:---:|
