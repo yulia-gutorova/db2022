@@ -22,3 +22,11 @@ Vanlig text som beskriver mitt projekt.
 
 [Link to google.com](https://Google.com)
 
+```js
+
+function helloWord(){
+console.log("Hello Word!"");
+}
+
+```
+![photo](./owl.jpg)
