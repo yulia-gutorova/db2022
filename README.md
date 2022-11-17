@@ -3,10 +3,10 @@ LABB 1: Introduction till Verktyg
 # Heading level 1
 ## Heading level 2
 <br>
-<p>Vanlig text som beskriver mitt projekt.</p>
-<p>**Fetstil text som beskriver mitt projekt.**</p>
-<p>*Kursiv stil text som beskriver mitt projekt.*</p>
-<p>> Blockquote</p>
+Vanlig text som beskriver mitt projekt.
+** Fetstil text som beskriver mitt projekt. **
+* Kursiv stil text som beskriver mitt projekt. *
+>Blockquote
 
 
 [Link to google.com](https://Google.com)
