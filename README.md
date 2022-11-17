@@ -14,11 +14,17 @@ Vanlig text som beskriver mitt projekt.
 
 :joy:
 
-### Lista
+### Listor:
 
 * List 1
 * List 2
 * List 3
+
+
+1. List 1 
+2. List 2
+3. List 3
+
 
 [Link to google.com](https://Google.com)
 
